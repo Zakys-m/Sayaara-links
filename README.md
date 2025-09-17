@@ -5,7 +5,7 @@
     <title>Sayaara.se</title>
     <style>
         body {
-            background-color: #c11314;
+            background-color: #c11314; /* ändrad bakgrundsfärg */
             color: #fff;
             font-family: Arial, sans-serif;
             text-align: center;
@@ -32,7 +32,7 @@
     </style>
 </head>
 <body>
-    <h1>Checka detta👇</h1>
+    <h1>Följ Sayaara på sociala medier👇</h1>
     <a href="https://www.instagram.com/sayaara.se?igsh=MXVqZDhsazlkNWk1dA%3D%3D&utm_source=qr" target="_blank">Instagram</a>
     <a href="https://www.tiktok.com/@sayaara.se?_t=ZN-8zoSgZ8UbzC&_r=1" target="_blank">TikTok</a>
 </body>
