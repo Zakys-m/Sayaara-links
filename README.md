@@ -5,7 +5,7 @@
     <title>Sayaara.se</title>
     <style>
         body {
-            background-color: #000;
+            background-color: #c11314;
             color: #fff;
             font-family: Arial, sans-serif;
             text-align: center;
